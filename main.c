@@ -3,12 +3,12 @@ int main()
 {
     int a;
 
-    printf("Enter your number\n");
+    printf("Enter your numberious\n");
     scanf("%d",&a);
-    printf("Your num is %d",a);
+    printf("Your num is cool %d",a);
 
     printf("\nHello, Git!");
-    //some fixes
+    
     scanf("%d",&a);
     
     return 0;
