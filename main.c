@@ -3,9 +3,11 @@ int main()
 {
     int a;
 
+    printf("\nEnter your number\n");
     scanf("%d",&a);
     printf("\nYour num is %d",a);
 
-    printf("Hello, Git!");
+    printf("\nHello, Git!");
+    
     return 0;
 }
