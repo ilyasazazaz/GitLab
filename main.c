@@ -1,5 +1,8 @@
 #include <stdio.h>
-int main() {
-   printf("Hello, Git!");
-   return 0;
+int main() 
+{
+    int a;
+
+    printf("Hello, Git!");
+    return 0;
 }
